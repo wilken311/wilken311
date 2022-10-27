@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Wilken</h1>
-<h3 align="center">IT Professional<span></h3>
+<h3 align="center">An IT Professional with a passion and determination to uncover unique things and transform ideas into actions.<span></h3>
 
 
 - 📫 How to reach me **monterowilken311@gmail.com**
