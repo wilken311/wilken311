@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Wilken</h1>
-<h3 align="center">I'm an IT Professional...</h3>
+<h3 align="center">I'm an IT Professional</h3><small>...see more<small>
 
 
 - 📫 How to reach me **monterowilken311@gmail.com**
