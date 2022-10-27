@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Wilken</h1>
 <h3 align="center">I'm an IT Professional</h3>
 
-- 🔭 I’m currently working as a **Freelancer**
-
-- 🤝 I’m looking for a **Career Oppurtinity**
 
 - 📫 How to reach me **monterowilken311@gmail.com**
 
