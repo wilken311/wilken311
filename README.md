@@ -4,7 +4,7 @@
 
 - 📫 How to reach me **monterowilken311@gmail.com**
 
-- ⚡ Fun fact **I remember when I was having dinner with my friend and, as we finished eating, we found that the room we went into was exclusive only for Manny Pacquiao's relatives and no one noticed us. 😅**
+- ⚡ Fun fact **I remember when I was having dinner with my friend and, as we finished eating, we found out that the room we went into was exclusive only for Manny Pacquiao's relatives, and no one noticed us. 😅**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
