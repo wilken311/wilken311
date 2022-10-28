@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Wilken</h1>
-<h3 align="center">An IT Professional that has a passion and determination to uncover unique things and transform ideas into action with system-oriented thinking and intelligent planning.<span></h3>
+<h3 align="left">An IT Professional that has a passion and determination to uncover unique things and transform ideas into action with system-oriented thinking and intelligent planning.<span></h3>
 
 
 - 📫 How to reach me **monterowilken311@gmail.com**
