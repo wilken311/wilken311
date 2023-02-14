@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Wilken</h1>
-<h3 align="left">A motivated full-stack developer with a passion for innovation and a commitment to learning and staying current with industry trends.<span></h3>
+<h3 align="left">A motivated developer with a passion for innovation and a commitment to learning and staying current with industry trends.<span></h3>
 
 
 <h3 align="left">Connect with me:</h3>
