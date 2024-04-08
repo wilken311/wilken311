@@ -6,9 +6,7 @@
 - 👨‍💻 Some of my projects are at [https://wilkenmontero.netlify.app/](https://wilkenmontero.netlify.app/)
 
 - 📫 How to reach me **monterowilken311@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1ZIhsC0AdHo-8Gp6q96XcTg-Ci-qn8y5h/view](https://drive.google.com/file/d/1ZIhsC0AdHo-8Gp6q96XcTg-Ci-qn8y5h/view)
-
+  
 - ⚡ Fun fact **I remember when I was having dinner with my friend at the mall, and as we finished eating, we found out that the room we went into was exclusive only for Manny Pacquiao's relatives and no one noticed us.😅**
 
 <h3 align="left">Connect with me:</h3>
